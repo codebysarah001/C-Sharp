@@ -157,18 +157,34 @@ namespace Task3
             // *
             //**
 
-            int rows = 4;
+            string star ="*";
 
-            for (int i = 1; i <= rows; i++)
+            for (int i = 1; i <= 4; i++)
             {
-                for (int j = 1; j <= i; j++)
+                for (int j = 1; j <= 4-i; j++)
                 {
-                    Console.Write("*");
+                    Console.Write(" ");
+                }
+                for (int k = 1; k <= i; k++)
+                {
+                    Console.Write(star + " ");
                 }
                 Console.WriteLine();
             }
 
             Console.WriteLine();
+            Console.WriteLine();
+
+
+            // another way : 
+
+            string x = "*";
+            for (int i = 0; i <= 4; i++)
+            {
+                Console.WriteLine(x);
+                x += "*";
+            }
+
             Console.WriteLine();
 
             /////////////////////////////////////////////////////////
@@ -182,19 +198,21 @@ namespace Task3
             //4 5 6
             //7 8 9 10
 
-            int r = 4;
-            int number_1 = 1;
 
-            for (int i = 1; i <= r; i++)
+            int number_1 = 1;
+            for (int i = 1; i <= 4; i++)
             {
-                for (int j = 1; j <= i; j++)
+                for (int j = 1; j <= 4-i ; j++)
+                {
+                    Console.Write(" ");
+                }
+                for(int k = 1;k <= i; k++)
                 {
                     Console.Write(number_1 + " ");
                     number_1++;
                 }
                 Console.WriteLine();
             }
-
 
             Console.WriteLine();
             Console.WriteLine("END !!!!");

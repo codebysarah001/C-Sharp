@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp Tasks\\Task3\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B13DDB9B-9811-4862-BB63-EE067C353F0E}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\c-sharp tasks\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B13DDB9B-9811-4862-BB63-EE067C353F0E}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\c-sharp\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13DDB9B-9811-4862-BB63-EE067C353F0E}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp Tasks\\Task3\\Task3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C-Sharp\\Task3\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp Tasks\\Task3\\Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\Task3\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAgwMwAAAABAAAA",
+              "ViewState": "AQIAALwAAAAAAAAAAAAqwNoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T11:27:24.109Z",
               "EditorCaption": ""

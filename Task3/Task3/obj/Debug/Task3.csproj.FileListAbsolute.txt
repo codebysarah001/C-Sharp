@@ -5,3 +5,10 @@ C:\Users\Orange\Desktop\C-Sharp Tasks\Task3\Task3\obj\Debug\Task3.csproj.Assembl
 C:\Users\Orange\Desktop\C-Sharp Tasks\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
 C:\Users\Orange\Desktop\C-Sharp Tasks\Task3\Task3\obj\Debug\Task3.exe
 C:\Users\Orange\Desktop\C-Sharp Tasks\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Orange\Desktop\C-Sharp\Task3\Task3\bin\Debug\Task3.pdb
