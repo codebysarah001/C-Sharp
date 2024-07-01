@@ -127,7 +127,7 @@ namespace Task4
             person1.Display();
             Console.WriteLine();
 
-            information person2 = new information("Noor", "Noor@gmail.com", "Female", "1234", "07846329400", 23);
+            information person2 = new information("Noor", "Noor@gmail.com", "Female", "1234", "07846329400", 17);
             Console.WriteLine("person 2 :");
             person2.Display(); 
             Console.WriteLine();

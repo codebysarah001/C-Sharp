@@ -35,7 +35,14 @@ namespace Task4
             this.gender = gender;
             this.ID = iD;
             this.phone = phone.StartsWith("077") || phone.StartsWith("078") || phone.StartsWith("079") ? phone : "0770000000";
-            this.age = age;
+            if (age >= 18 && age <= 60)
+            {
+                this.age = age;
+            }
+            else
+            {
+                Console.WriteLine("The age is not included!");
+            }
         }
 
         public void Display()
