@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\OOP_tasks\\03_07_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47BAB8F-5A30-4D8E-BAE3-2B236388C88B}|03_07_2024\\03_07_2024.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\OOP_tasks\\03_07_2024\\03_07_2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C47BAB8F-5A30-4D8E-BAE3-2B236388C88B}|03_07_2024\\03_07_2024.csproj|c:\\users\\orange\\desktop\\c-sharp\\oop_tasks\\03_07_2024\\03_07_2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BAB8F-5A30-4D8E-BAE3-2B236388C88B}|03_07_2024\\03_07_2024.csproj|solutionrelative:03_07_2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47BAB8F-5A30-4D8E-BAE3-2B236388C88B}|03_07_2024\\03_07_2024.csproj|c:\\users\\orange\\desktop\\c-sharp\\oop_tasks\\03_07_2024\\03_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C47BAB8F-5A30-4D8E-BAE3-2B236388C88B}|03_07_2024\\03_07_2024.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\OOP_tasks\\03_07_2024\\03_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BAB8F-5A30-4D8E-BAE3-2B236388C88B}|03_07_2024\\03_07_2024.csproj|solutionrelative:03_07_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "03_07_2024\\Car.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\OOP_tasks\\03_07_2024\\03_07_2024\\Car.cs",
               "RelativeToolTip": "03_07_2024\\Car.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwCgAAAAXAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwDIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T23:20:50.711Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "03_07_2024\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T23:20:27.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T23:20:27.767Z"
             }
           ]
         }
